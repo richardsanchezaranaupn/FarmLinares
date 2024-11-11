@@ -1,0 +1,195 @@
+﻿@model IEnumerable<Developers.Models.Producto>
+@using Developers.Utilities
+
+@{
+    ViewData["Title"] = "FARMACIA LINARES";
+    Layout = null; // Esto evita que se cargue el layout por defecto
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - FARMACIA LINARES</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@5.3.3/dist/litera/bootstrap.min.css">
+    <!-- Font Awesome CDN para los iconos -->
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <style>
+        /* Asegura que el body y el html no tengan overflow o posiciones afectadas */
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            min-height: 100vh;
+            background-color: #f8f9fa;
+            font-family: 'Poppins', sans-serif;
+            overflow: hidden; /* Evitar el desplazamiento de la página */
+        }
+
+        .container {
+            text-align: center;
+            flex-grow: 1; /* Hace que el contenedor crezca y ocupe el espacio restante */
+        }
+
+        .titulo-principal {
+            color: #885FDB;
+            margin-top: 60px;
+        }
+
+        .mensaje-inicio-sesion {
+            color: rgb(0, 0, 0);
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+
+        .caja-ingresar {
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: auto;
+            background-color: #ffffff;
+            display: flex;
+            justify-content: center;
+            overflow-x: auto; /* Permitir el desplazamiento horizontal */
+        }
+
+        .btn-ingresar {
+            background-color: #48BBC6;
+            color: white;
+            padding: 15px 40px;
+            border: none;
+            border-radius: 10px;
+            text-align: center;
+            font-size: 1em;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+            cursor: pointer;
+            margin: 15px; /* Espacio entre los botones */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+            .btn-ingresar i {
+                font-size: 1.5em; /* Tamaño del icono */
+                margin-bottom: 5px; /* Espacio entre el icono y el texto */
+                color: white; /* Color blanco para el icono */
+            }
+
+            .btn-ingresar:hover {
+                background-color: #3a9fbf;
+            }
+
+        /* Estilo para el botón de modo daltonismo */
+        .btn-daltonismo {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background-color: #ffbc00;
+            color: #fff;
+            padding: 10px 20px;
+            font-weight: bold;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            z-index: 1000; /* Asegura que el botón esté encima de otros elementos */
+            box-sizing: border-box; /* Asegura que el padding no cambie el tamaño total del botón */
+            transition: background-color 0.3s ease;
+        }
+
+            .btn-daltonismo:hover {
+                background-color: #d98f00;
+            }
+
+        /* Modo Daltonismo (escala de grises) */
+        .daltonismo-container {
+            filter: grayscale(100%) !important;
+            background-color: #f4f4f4 !important;
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        /* Estilo cuando el modo daltonismo está activo */
+        .daltonismo .btn-daltonismo {
+            background-color: #777; /* Cambio de color del botón cuando el modo Daltonismo está activo */
+            color: #222; /* Cambio de color del texto del botón */
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container" id="daltonismoContainer">
+        <div class="user">
+            <partial name="_LoginPartial" />
+        </div>
+
+        <h1 class="titulo-principal">@ViewData["Title"]</h1>
+
+        <div class="mensaje-inicio-sesion">
+            <h2>ELIJA UNA OPCIÓN</h2>
+        </div>
+
+        <div class="caja-ingresar">
+            @if (User.IsInRole(DS.Role_Admin))
+            {
+                <a class="btn btn-ingresar" asp-area="Identity" asp-page="/Account/Register">
+                    <i class="fas fa-list"></i> Crear Usuario
+                </a>
+
+                <a class="btn btn-ingresar" asp-controller="Productos" asp-action="Create">
+                    <i class="fas fa-plus"></i> Ingresar Producto
+                </a>
+
+                <a class="btn btn-ingresar" asp-controller="Categorias" asp-action="Create">
+                    <i class="fas fa-tags"></i> Ingresar Categoría
+                </a>
+
+                <a class="btn btn-ingresar" asp-controller="Proveedores" asp-action="Create">
+                    <i class="fas fa-truck"></i> Ingresar Proveedor
+                </a>
+
+                <a class="btn btn-ingresar" asp-controller="Ventas" asp-action="Create">
+                    <i class="fas fa-plus"></i> Generar Venta
+                </a>
+
+                <a class="btn btn-ingresar" asp-controller="Productos" asp-action="Inventory">
+                    <i class="fas fa-list"></i> Ver Inventario
+                </a>
+
+                <a class="btn btn-ingresar" asp-area="" asp-controller="Users" asp-action="Index">
+                    <i class="fas fa-list"></i> Ver Usuarios
+                </a>
+            }
+
+            @if (User.IsInRole(DS.Role_Empleado))
+            {
+                <a class="btn btn-ingresar" asp-controller="Ventas" asp-action="Create">
+                    <i class="fas fa-plus"></i> Generar Venta
+                </a>
+                <a class="btn btn-ingresar" asp-controller="Productos" asp-action="Inventory">
+                    <i class="fas fa-list"></i> Ver Inventario
+                </a>
+            }
+        </div>
+    </div>
+
+    <!-- Botón de Daltonismo -->
+    <button class="btn-daltonismo" id="daltonismoBtn" onclick="toggleDaltonismo()">Modo Acromático</button>
+
+    <script>
+        function toggleDaltonismo() {
+            var container = document.getElementById("daltonismoContainer");
+            document.body.classList.toggle('daltonismo');
+            container.classList.toggle('daltonismo-container'); // Alterna la clase para activar/desactivar el filtro
+        }
+    </script>
+</body>
+</html>
+
+
+
+
+
+

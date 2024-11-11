@@ -1,0 +1,117 @@
+﻿@model IEnumerable<Developers.Models.Proveedor>
+
+@{
+    ViewData["Title"] = "Proveedores";
+    Layout = "~/Views/Shared/_LayoutFarm.cshtml";
+}
+
+<style>
+    /* Estilo para el modo daltonismo */
+    .daltonismo-container {
+        filter: grayscale(100%) !important;
+        background-color: #f4f4f4 !important;
+    }
+
+    /* Estilo para los botones en modo daltonismo */
+    .daltonismo .btn {
+        background-color: #777 !important;
+        color: #222 !important;
+        border: 1px solid #aaa !important;
+    }
+
+        .daltonismo .btn:hover {
+            background-color: #555 !important;
+            border-color: #888 !important;
+        }
+
+    /* Estilo para los botones de daltonismo */
+    .btn-daltonismo {
+        background-color: #ffbc00;
+        color: #fff;
+        padding: 10px 20px;
+        font-weight: bold;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        z-index: 1000;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-daltonismo:hover {
+            background-color: #d98f00;
+        }
+
+    /* Estilo para cuando el modo daltonismo está activado */
+    .daltonismo .btn-daltonismo {
+        background-color: #777;
+        color: #222;
+    }
+
+    /* Estilos adicionales que deberían cambiar en modo daltonismo */
+    .daltonismo .table-striped {
+        background-color: #f5f5f5 !important;
+    }
+
+    .daltonismo th,
+    .daltonismo td {
+        color: #333 !important;
+    }
+</style>
+
+<div class="row justify-content-center">
+    <div class="col-12 col-md-8">
+        <div class="card">
+            <div class="card-header">
+                <div class="d-flex justify-content-between">
+                    <h2>PROVEEDORES</h2>
+                    <div class="d-flex">
+                        <a class="btn btn-primary" asp-controller="Proveedores" asp-action="Create">
+                            <i class="bi bi-plus-square"></i> Nuevo
+                        </a>
+                        <button class="btn btn-warning ms-2" id="daltonismoBtn" onclick="toggleDaltonismo()">Modo Acromático</button>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body" id="daltonismoContainer">
+                <div class="table-responsive">
+                    <table class="table table-sm table-striped" id="table_proveedores">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>NOMBRE</th>
+                                <th>RUC</th>
+                                <th>DIRECCION</th>
+                                <th>NOMBRE DE CONTACTO</th>
+                                <th>TELEFONO</th>
+                                <th>CORREO ELECTRÓNICO</th>
+                                <th>ESTADO</th>
+                                <th width="120px">Opciones</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/proveedor.js"></script>
+    <script>
+        // Función para activar o desactivar el modo daltonismo
+        function toggleDaltonismo() {
+            var container = document.getElementById("daltonismoContainer");
+            // Alterna la clase 'daltonismo' en el contenedor específico
+            container.classList.toggle('daltonismo-container');
+            // Alterna la clase 'daltonismo' en el body
+            document.body.classList.toggle('daltonismo');
+        }
+
+        // Al cargar la página, asegúrate de que el modo daltonismo esté desactivado
+        window.onload = function () {
+            var container = document.getElementById("daltonismoContainer");
+            container.classList.remove('daltonismo-container'); // Asegura que el contenedor no tenga la clase daltonismo
+            document.body.classList.remove('daltonismo'); // Asegura que el body no tenga la clase daltonismo
+        };
+    </script>
+}

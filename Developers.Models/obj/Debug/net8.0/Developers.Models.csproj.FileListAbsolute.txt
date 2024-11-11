@@ -1,0 +1,182 @@
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 06\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 07\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 08\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+D:\DIARS 14002\Semana 09\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.AssemblyReference.cache
+C:\DISEÑO Y ARQUITECTURA\profe\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+C:\DISEÑO Y ARQUITECTURA\profe\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\profe\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+C:\DISEÑO Y ARQUITECTURA\profe\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.AssemblyReference.cache
+C:\DISEÑO Y ARQUITECTURA\profe\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISEÑO Y ARQUITECTURA\profe\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+C:\DISEÑO Y ARQUITECTURA\profe\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+C:\DISEÑO Y ARQUITECTURA\profe\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+C:\DISEÑO Y ARQUITECTURA\profe\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\profe\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\profe\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+C:\DISEÑO Y ARQUITECTURA\profe\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.AssemblyReference.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+D:\HUAWEI\Documents\01 UNIV\7° CICLO - 24-1\01 DISEÑO Y ARQ\Proy2\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\HUAWEI\Documents\01 UNIV\7° CICLO - 24-1\01 DISEÑO Y ARQ\Proy2\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\HUAWEI\Documents\01 UNIV\7° CICLO - 24-1\01 DISEÑO Y ARQ\Proy2\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\HUAWEI\Documents\01 UNIV\7° CICLO - 24-1\01 DISEÑO Y ARQ\Proy2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.AssemblyReference.cache
+D:\HUAWEI\Documents\01 UNIV\7° CICLO - 24-1\01 DISEÑO Y ARQ\Proy2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUAWEI\Documents\01 UNIV\7° CICLO - 24-1\01 DISEÑO Y ARQ\Proy2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\HUAWEI\Documents\01 UNIV\7° CICLO - 24-1\01 DISEÑO Y ARQ\Proy2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\HUAWEI\Documents\01 UNIV\7° CICLO - 24-1\01 DISEÑO Y ARQ\Proy2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\HUAWEI\Documents\01 UNIV\7° CICLO - 24-1\01 DISEÑO Y ARQ\Proy2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\HUAWEI\Documents\01 UNIV\7° CICLO - 24-1\01 DISEÑO Y ARQ\Proy2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\HUAWEI\Documents\01 UNIV\7° CICLO - 24-1\01 DISEÑO Y ARQ\Proy2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\HUAWEI\Documents\01 UNIV\7° CICLO - 24-1\01 DISEÑO Y ARQ\Proy2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+E:\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+E:\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+E:\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+E:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.AssemblyReference.cache
+E:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+E:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+E:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+E:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+E:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+E:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+E:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+D:\Nueva carpeta\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\Nueva carpeta\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\Nueva carpeta\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\Nueva carpeta\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.AssemblyReference.cache
+D:\Nueva carpeta\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nueva carpeta\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\Nueva carpeta\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\Nueva carpeta\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\Nueva carpeta\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\Nueva carpeta\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\Nueva carpeta\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.AssemblyReference.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+D:\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+D:\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+D:\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+D:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.AssemblyReference.cache
+D:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+D:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+D:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+D:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+D:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+D:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+D:\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.AssemblyReference.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+C:\SISTEMA VENTAS ANGAMOS\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+C:\SISTEMA VENTAS ANGAMOS\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+C:\SISTEMA VENTAS ANGAMOS\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+C:\SISTEMA VENTAS ANGAMOS\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.AssemblyReference.cache
+C:\SISTEMA VENTAS ANGAMOS\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\SISTEMA VENTAS ANGAMOS\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+C:\SISTEMA VENTAS ANGAMOS\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+C:\SISTEMA VENTAS ANGAMOS\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+C:\SISTEMA VENTAS ANGAMOS\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+C:\SISTEMA VENTAS ANGAMOS\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+C:\SISTEMA VENTAS ANGAMOS\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+C:\SISTEMA VENTAS ANGAMOS\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\nunit.engine.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\nunit.engine.api.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\nunit.engine.core.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.deps.json
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\bin\Debug\net8.0\Developers.Models.pdb
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.AssemblyReference.cache
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfoInputs.cache
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.AssemblyInfo.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.csproj.CoreCompileInputs.cache
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\refint\Developers.Models.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\Developers.Models.pdb
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\obj\Debug\net8.0\ref\Developers.Models.dll

@@ -1,0 +1,130 @@
+﻿@model IEnumerable<Developers.Models.Producto>
+@using Developers.Utilities
+@{
+    ViewData["Title"] = "PRODUCTOS";
+    Layout = "~/Views/Shared/_LayoutFarm.cshtml";
+}
+
+<style>
+    .titulo-principal {
+        text-align: center;
+        color: #885FDB;
+    }
+
+    .subtitulo {
+        text-align: center;
+        color: #48BBC6;
+    }
+
+    .table-responsive {
+        overflow-x: auto;
+    }
+
+    #table_productos {
+        width: 100% !important;
+    }
+
+        #table_productos th, #table_productos td {
+            white-space: nowrap;
+        }
+
+            #table_productos th:nth-child(2),
+            #table_productos td:nth-child(2) {
+                width: 100px; /* Ajusta el valor según sea necesario */
+            }
+
+    /* Estilo para cuando el modo daltonismo está activado */
+    .daltonismo-container {
+        filter: grayscale(100%) !important;
+        background-color: #f4f4f4 !important;
+    }
+
+    /* Estilo para el botón de daltonismo */
+    .btn-daltonismo {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        background-color: #ffbc00;
+        color: #fff;
+        padding: 10px 20px;
+        font-weight: bold;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        z-index: 1000;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-daltonismo:hover {
+            background-color: #d98f00;
+        }
+
+    /* Estilo para cuando el modo daltonismo está activado */
+    .daltonismo .btn-daltonismo {
+        background-color: #777;
+        color: #222;
+    }
+
+</style>
+
+<div class="row justify-content-center daltonismo-container" id="daltonismoContainer">
+    <div class="col-12 col-md-8">
+        <h1 class="titulo-principal">FARMACIA OLIVARES</h1>
+        <div class="card">
+            <div class="card-header">
+                @if (User.IsInRole(DS.Role_Admin))
+                {
+                    <div class="d-flex justify-content-between">
+                        <h2 class="subtitulo">PRODUCTOS EN ALMACEN</h2>
+                        <div class="d-flex">
+                            <a href="@Url.Action("ExportarExcel", "Productos")" class="btn btn-success">Exportar a Excel</a>
+                            <button class="btn btn-warning ms-2" id="daltonismoBtn" onclick="toggleDaltonismo()">Modo Acromático</button>
+                        </div>
+                    </div>
+                }
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-sm table-striped" id="table_productos">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>NOMBRE</th>
+                                <th>CANTIDAD</th>
+                                <th>PRECIO</th>
+                                <th>RECETA</th>
+                                <th>FECHA INGRESO</th>
+                                <th>CATEGORIA</th>
+                                <th>PROVEEDOR</th>
+                                <th>Estado</th>
+                                <th width="120px">Opciones</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <script src="~/js/producto.js"></script>
+    <script>
+        // Función para activar o desactivar el modo daltonismo
+        function toggleDaltonismo() {
+            var container = document.getElementById("daltonismoContainer");
+            // Alterna la clase 'daltonismo' en el body y en el contenedor
+            document.body.classList.toggle('daltonismo');
+            container.classList.toggle('daltonismo-container');
+        }
+
+        // Al cargar la página, asegúrate de que el modo daltonismo esté desactivado
+        window.onload = function () {
+            document.body.classList.remove('daltonismo'); // Asegura que el daltonismo no esté activado
+            var container = document.getElementById("daltonismoContainer");
+            container.classList.remove('daltonismo-container'); // Asegura que el contenedor no tenga la clase daltonismo
+        };
+    </script>
+}
+

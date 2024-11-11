@@ -1,0 +1,632 @@
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\appsettings.Development.json
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\appsettings.json
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.staticwebassets.runtime.json
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.exe
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.deps.json
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.runtimeconfig.json
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.pdb
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Azure.Core.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Azure.Identity.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ClosedXML.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\DocumentFormat.OpenXml.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ExcelNumberFormat.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Humanizer.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Irony.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Build.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Build.Framework.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Data.Sqlite.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.DiaSymReader.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Identity.Client.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.NET.StringTools.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Mono.TextTemplating.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Newtonsoft.Json.Bson.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.Common.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.Configuration.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.DependencyResolver.Core.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.Frameworks.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.LibraryModel.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.Packaging.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.ProjectModel.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.Protocol.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.Versioning.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\SixLabors.Fonts.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\SQLitePCLRaw.core.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\System.CodeDom.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\System.Composition.AttributedModel.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\System.Composition.Convention.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\System.Composition.Hosting.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\System.Composition.Runtime.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\System.Composition.TypedParts.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\System.Drawing.Common.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\System.IO.Packaging.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\System.Memory.Data.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\System.Runtime.Caching.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\System.Security.Permissions.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\System.Windows.Extensions.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\XLParser.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\af\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ar\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\az\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\bg\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\bn-BD\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\cs\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\da\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\de\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\el\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\es\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\fa\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\fi-FI\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\fr\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\fr-BE\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\he\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\hr\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\hu\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\hy\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\id\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\is\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\it\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ja\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ko-KR\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ku\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\lv\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ms-MY\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\mt\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\nb\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\nb-NO\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\nl\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\pl\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\pt\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ro\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ru\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\sk\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\sl\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\sr\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\sr-Latn\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\sv\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\th-TH\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\tr\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\uk\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\vi\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\zh-CN\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hans\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hant\Humanizer.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.Persistence.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.Repositories.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.Utilities.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.Models.pdb
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.Persistence.pdb
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.Repositories.pdb
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.Utilities.pdb
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.csproj.AssemblyReference.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.AssemblyInfoInputs.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.AssemblyInfo.cs
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.csproj.CoreCompileInputs.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.MvcApplicationPartsAssemblyInfo.cs
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.MvcApplicationPartsAssemblyInfo.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.RazorAssemblyInfo.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.RazorAssemblyInfo.cs
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\staticwebassets.build.json
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\staticwebassets.development.json
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\staticwebassets\msbuild.Developers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\staticwebassets\msbuild.build.Developers.props
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.Developers.props
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.Developers.props
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\staticwebassets.pack.json
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\scopedcss\Views\Shared\_LayoutFarm.cshtml.rz.scp.css
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\scopedcss\Views\Shared\_LayoutFarmInicio.cshtml.rz.scp.css
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\scopedcss\bundle\Developers.styles.css
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\scopedcss\projectbundle\Developers.bundle.scp.css
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.csproj.Up2Date
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\refint\Developers.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.pdb
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.genruntimeconfig.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers\obj\Release\net8.0\ref\Developers.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\appsettings.Development.json
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\appsettings.json
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.staticwebassets.runtime.json
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.exe
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.deps.json
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.runtimeconfig.json
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.pdb
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Azure.Core.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Azure.Identity.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\BouncyCastle.Cryptography.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ClosedXML.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\DocumentFormat.OpenXml.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ExcelNumberFormat.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Humanizer.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Irony.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\itext.barcodes.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\itext.bouncy-castle-connector.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\itext.forms.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\itext.io.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\itext.kernel.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\itext.layout.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\itext.pdfa.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\itext.pdfua.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\itext.sign.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\itext.styledxmlparser.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\itext.svg.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\itext.bouncy-castle-adapter.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\itext.commons.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Build.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Build.Framework.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Data.SqlClient.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Data.Sqlite.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.DiaSymReader.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Identity.Client.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.NET.StringTools.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.SqlServer.Server.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Mono.TextTemplating.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Newtonsoft.Json.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Newtonsoft.Json.Bson.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.Common.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.Configuration.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.DependencyResolver.Core.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.Frameworks.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.LibraryModel.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.Packaging.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.ProjectModel.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.Protocol.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\NuGet.Versioning.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\SixLabors.Fonts.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\SQLitePCLRaw.core.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\System.CodeDom.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\System.Composition.AttributedModel.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\System.Composition.Convention.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\System.Composition.Hosting.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\System.Composition.Runtime.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\System.Composition.TypedParts.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\System.Drawing.Common.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\System.IO.Packaging.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\System.Memory.Data.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\System.Runtime.Caching.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\System.Security.Permissions.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\System.Windows.Extensions.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\XLParser.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\af\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ar\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\az\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\bg\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\bn-BD\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\cs\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\da\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\de\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\el\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\es\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\fa\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\fi-FI\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\fr\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\fr-BE\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\he\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\hr\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\hu\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\hy\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\id\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\is\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\it\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ja\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ko-KR\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ku\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\lv\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ms-MY\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\mt\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\nb\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\nb-NO\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\nl\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\pl\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\pt\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ro\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ru\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\sk\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\sl\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\sr\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\sr-Latn\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\sv\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\th-TH\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\tr\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\uk\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\vi\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\zh-CN\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hans\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hant\Humanizer.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.Models.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.Persistence.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.Repositories.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.Utilities.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.Models.pdb
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.Persistence.pdb
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.Repositories.pdb
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\Developers.Utilities.pdb
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.csproj.AssemblyReference.cache
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.GeneratedMSBuildEditorConfig.editorconfig
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.AssemblyInfoInputs.cache
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.AssemblyInfo.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.csproj.CoreCompileInputs.cache
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.MvcApplicationPartsAssemblyInfo.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.MvcApplicationPartsAssemblyInfo.cache
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.RazorAssemblyInfo.cache
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.RazorAssemblyInfo.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\staticwebassets.build.json
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\staticwebassets.development.json
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\staticwebassets\msbuild.Developers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\staticwebassets\msbuild.build.Developers.props
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.Developers.props
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.Developers.props
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\staticwebassets.pack.json
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\scopedcss\Views\Shared\_LayoutFarm.cshtml.rz.scp.css
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\scopedcss\Views\Shared\_LayoutFarmInicio.cshtml.rz.scp.css
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\scopedcss\bundle\Developers.styles.css
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\scopedcss\projectbundle\Developers.bundle.scp.css
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.csproj.Up2Date
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\refint\Developers.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.pdb
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\Developers.genruntimeconfig.cache
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\obj\Release\net8.0\ref\Developers.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\NUnit3.TestAdapter.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\NUnit3.TestAdapter.pdb
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\nunit.engine.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\nunit.engine.api.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\nunit.engine.core.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\testcentric.engine.metadata.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers\bin\Release\net8.0\nunit.framework.dll

@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Ventas";
+    Layout = "~/Views/Shared/_LayoutFarm.cshtml";
+}
+
+<div class="row justify-content-center">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <div class="d-flex justify-content-between">
+                    <h2>Ventas</h2>
+                    <div>
+                        <a class="btn btn-primary" asp-controller="Ventas" asp-action="Create">
+                            <i class="bi bi-plus-square"></i> Nuevo
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-sm table-striped" id="table_ventas">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Fecha de Registro</th>
+                                <th>Producto</th>
+                                <th>Cantidad</th>
+                                <th>Cliente</th>
+                                <th>Estado</th>
+                                <th width="120px">Opciones</th>
+                            </tr>
+                        </thead>
+                        @* Body con datatables *@
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="~/js/venta.js"></script>
+}

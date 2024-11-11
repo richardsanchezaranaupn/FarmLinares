@@ -1,0 +1,8 @@
+﻿C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Utilities\DS.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Utilities\EmailSender.cs
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\nunit.engine.dll
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\testcentric.engine.metadata.dll

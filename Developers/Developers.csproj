@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.102.2" />
+    <PackageReference Include="itext7" Version="8.0.4" />
+    <PackageReference Include="itext7.bouncy-castle-adapter" Version="8.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.2" />
+    <PackageReference Include="NUnit" Version="3.14.0" />
+    <PackageReference Include="NUnit.Analyzers" Version="3.9.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="NUnit3TestAdapter" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Developers.Models\Developers.Models.csproj" />
+    <ProjectReference Include="..\Developers.Persistence\Developers.Persistence.csproj" />
+    <ProjectReference Include="..\Developers.Repositories\Developers.Repositories.csproj" />
+    <ProjectReference Include="..\Developers.Utilities\Developers.Utilities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Views\Productos\Edit.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,37 @@
+﻿@model Developers.Models.Categoria
+@{
+    ViewData["Title"] = "Ver Categoría";
+    Layout = "~/Views/Shared/_LayoutFarm.cshtml";
+}
+
+<div class="row justify-content-center">
+    <div class="col-12 col-md-8">
+        <div class="card">
+            <div class="card-header">
+                <h2>Detalles de la Categoría</h2>
+            </div>
+            <div class="card-body">
+                <!-- Mostrar el nombre de la categoría -->
+                <div class="form-group mb-2">
+                    <label class="form-label">NOMBRE</label>
+                    <input class="form-control" value="@Model.CategoriaName" readonly />
+                </div>
+
+                <!-- Mostrar la descripción de la categoría -->
+                <div class="form-group mb-2">
+                    <label class="form-label">DESCRIPCIÓN</label>
+                    <input class="form-control" value="@Model.Descripcion" readonly />
+                </div>
+
+                <!-- Botón para volver a la lista de categorías -->
+                <div class="d-grid column-gap-2 d-md-block offset-0 offset-md-3 offset-lg-4">
+                    <a asp-controller="Categorias" asp-action="Index" class="btn btn-primary">
+                        <i class="bi bi-arrow-return-left"></i>&nbsp;Volver
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,317 @@
+﻿ @model Developers.Models.ViewModels.VentaVM
+
+<div class="row justify-content-center">
+    <div class="col-12">
+        <div class="row">
+            <!-- Columna Izquierda: Formulario -->
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        <h2>Nueva Venta</h2>
+                    </div>
+                    <div class="card-body">
+                        <form asp-controller="Ventas" asp-action="Create" method="post" id="ventaForm">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="form-group mb-2">
+                                <label class="form-label">FECHA DE REGISTRO</label>
+                                <input class="form-control" id="fechaIngresoInput" type="datetime-local" readonly />
+                                <span asp-validation-for="Venta.FechaRegistro" class="text-danger"></span>
+                            </div>
+                            <div class="form-group mb-2">
+                                <label class="form-label">NOMBRE PRODUCTO</label>
+                                <select class="form-select" id="ProductoId" name="ProductoId"></select>
+                                <span class="text-danger"></span>
+                            </div>
+                            <div class="form-group mb-2">
+                                <label class="form-label">RECETA</label>
+                                <input class="form-control" id="Receta" readonly />
+                            </div>
+                            <div class="form-group mb-2">
+                                <label class="form-label">PRECIO UNITARIO</label>
+                                <input class="form-control" id="PrecioUnitario" readonly />
+                            </div>
+                            <div class="form-group mb-2">
+                                <label class="form-label">STOCK</label>
+                                <input class="form-control" id="Stock" readonly />
+                            </div>
+                            <div class="form-group mb-2">
+                                <label class="form-label">CANTIDAD</label>
+                                <input class="form-control" id="Cantidad" placeholder="Ingrese Cantidad" value="1" />
+                            </div>
+                            <div class="form-group mb-2">
+                                <label class="form-label">NOMBRE DE CLIENTE</label>
+                                <input class="form-control" asp-for="Venta.ClienteName" placeholder="Ingrese Cliente" />
+                                <span asp-validation-for="Venta.ClienteName" class="text-danger"></span>
+                            </div>
+                            <input type="hidden" id="productosDetalle" name="ProductosDetalleJson" />
+                            <div class="d-grid column-gap-2 d-md-block offset-0 offset-md-3 offset-lg-4">
+                                <button type="button" class="btn btn-primary" id="agregarProductoBtn">
+                                    <i class="bi bi-plus"></i>&nbsp; Agregar Producto
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Columna Derecha: Detalle de la Venta -->
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        <h2>Detalle Venta</h2>
+                    </div>
+                    <div class="card-body">
+                        <table class="table mt-4">
+                            <thead>
+                                <tr>
+                                    <th>Producto</th>
+                                    <th>Cantidad</th>
+                                    <th>Precio Unitario</th>
+                                    <th>Total</th>
+                                    <th>Acciones</th>
+                                </tr>
+                            </thead>
+                            <tbody id="productosAgregados">
+                                <!-- Productos agregados se añadirán aquí -->
+                            </tbody>
+                            <tfoot>
+                                <tr>
+                                    <td colspan="3" class="text-end"><strong>Total Venta:</strong></td>
+                                    <td id="totalVenta">0.00</td>
+                                    <td></td>
+                                </tr>
+                            </tfoot>
+                        </table>
+                        <div class="d-grid column-gap-2 d-md-block offset-0 offset-md-3 offset-lg-4 mt-4">
+                            <button type="button" class="btn btn-success" id="generarVentaBtn">
+                                <i class="bi bi-floppy"></i>&nbsp; Generar Venta
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            // Prellenar el campo Fecha de Registro con la fecha y hora actual
+            var today = new Date();
+            var day = String(today.getDate()).padStart(2, '0');
+            var month = String(today.getMonth() + 1).padStart(2, '0'); // Enero es 0
+            var year = today.getFullYear();
+            var hours = String(today.getHours()).padStart(2, '0');
+            var minutes = String(today.getMinutes()).padStart(2, '0');
+
+            // Formato YYYY-MM-DDTHH:MM para campos de tipo "datetime-local"
+            var currentDateTime = year + '-' + month + '-' + day + 'T' + hours + ':' + minutes;
+
+            // Asignar valor al campo de fecha de registro y hacerlo no editable
+            $('#fechaIngresoInput').val(currentDateTime);
+        });
+        $(document).ready(function () {
+            // Inicializar Select2 para el campo ProductoId
+            $("#ProductoId").select2({
+                placeholder: "Seleccione un Producto",
+                allowClear: true,
+                theme: "bootstrap-5",
+                ajax: {
+                    url: "@Url.Action("SearchProduct", "Ventas")",
+                    contentType: "application/json; charset=utf-8",
+                    data: function (params) {
+                        var query = {
+                            term: params.term
+                        };
+                        return query;
+                    },
+                    processResults: function (data) {
+                        return {
+                            results: $.map(data, function (item) {
+                                return {
+                                    id: item.productoId,
+                                    text: item.productoName
+                                };
+                            })
+                        };
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        console.error("Error al cargar los productos: ", textStatus, errorThrown);
+                    }
+                }
+            });
+
+            // Evento change para actualizar los campos de RECETA y PRECIO UNITARIO
+            $('#ProductoId').on('change', function () {
+                var productoId = $(this).val();
+
+                if (productoId) {
+                    // Obtener receta
+                    $.ajax({
+                        url: '@Url.Action("GetReceta", "Productos")',
+                        type: 'GET',
+                        data: { productoId: productoId },
+                        success: function (response) {
+                            $('#Receta').val(response);
+                        },
+                        error: function () {
+                            alert('Error al obtener la receta del producto.');
+                        }
+                    });
+
+                    // Obtener precio unitario
+                    $.ajax({
+                        url: '@Url.Action("GetPrecioUnitario", "Productos")',
+                        type: 'GET',
+                        data: { productoId: productoId },
+                        success: function (response) {
+                            $('#PrecioUnitario').val(response);
+                        },
+                        error: function () {
+                            alert('Error al obtener el precio unitario del producto.');
+                        }
+                    });
+
+                    // Obtener stock
+                    $.ajax({
+                        url: '@Url.Action("GetStock", "Productos")',
+                        type: 'GET',
+                        data: { productoId: productoId },
+                        success: function (response) {
+                            $('#Stock').val(response);
+                        },
+                        error: function () {
+                            alert('Error al obtener el precio unitario del producto.');
+                        }
+                    });
+                }
+            });
+
+            var agregarProductoBtn = $('#agregarProductoBtn');
+            var productosAgregados = $('#productosAgregados');
+            var totalVenta = 0;
+            var productosDetalle = [];
+
+            agregarProductoBtn.click(function () {
+                var productoId = $('#ProductoId').val();
+                var productoNombre = $('#ProductoId option:selected').text();
+                var cantidad = parseInt($('#Cantidad').val());
+
+                // Validación básica
+                if (!productoId || cantidad <= 0 || isNaN(cantidad) || cantidad === "") {
+                    alert('Seleccione un producto y especifique una cantidad válida.');
+                    return;
+                }
+
+                // Realizar una llamada AJAX para obtener la cantidad disponible del producto
+                $.ajax({
+                    url: '@Url.Action("GetCantidadDisponible", "Productos")',
+                    type: 'GET',
+                    data: { productoId: productoId },
+                    success: function (cantidadDisponible) {
+                        if (cantidad > cantidadDisponible) {
+                            alert('La cantidad seleccionada no puede ser mayor que la cantidad disponible del producto.');
+                            return;
+                        }
+
+                        // Realizar una llamada AJAX para obtener el precio unitario del producto
+                        $.ajax({
+                            url: '@Url.Action("GetPrecioUnitario", "Productos")',
+                            type: 'GET',
+                            data: { productoId: productoId },
+                            success: function (precioUnitario) {
+                                // Calcular el total
+                                var total = cantidad * precioUnitario;
+
+                                // Depuración
+                                console.log("Producto agregado:", productoNombre, "Cantidad:", cantidad, "Precio unitario:", precioUnitario, "Total:", total);
+
+                                // Agregar fila a la tabla con el precio unitario y total, incluyendo el botón de eliminar
+                                var fila = $(`
+                                            <tr id="producto_${productoId}">
+                                                <td>${productoNombre}</td>
+                                                <td>${cantidad}</td>
+                                                <td>${precioUnitario.toFixed(2)}</td>
+                                                <td>${total.toFixed(2)}</td>
+                                                <td><button type="button" class="btn btn-danger btn-sm eliminarProductoBtn">Eliminar</button></td>
+                                            </tr>`
+                                );
+                                productosAgregados.append(fila);
+
+                                // Agregar producto al detalle de venta
+                                productosDetalle.push({
+                                    ProductoId: productoId,
+                                    Cantidad: cantidad,
+                                    PrecioUnitario: precioUnitario
+                                });
+
+                                // Actualizar el total de la venta
+                                totalVenta += total;
+                                $('#totalVenta').text(totalVenta.toFixed(2));
+
+                                // Limpiar campos después de agregar
+                                $('#ProductoId').val('').trigger('change');
+                                $('#Cantidad').val('');  // Volver a 1 el campo Cantidad
+                                $('#Stock').val('');      // Vaciar campo Stock
+                                $('#PrecioUnitario').val(''); // Vaciar campo Precio Unitario
+                                $('#Receta').val('');     // Vaciar campo Receta
+
+                            },
+                            error: function () {
+                                alert('Error al obtener el precio unitario del producto.');
+                            }
+                        });
+                    },
+                    error: function () {
+                        alert('Error al obtener la cantidad disponible del producto.');
+                    }
+                });
+            });
+
+            // Manejar el clic en el botón de eliminar producto
+            $(document).on('click', '.eliminarProductoBtn', function () {
+                var fila = $(this).closest('tr');
+                var productoId = fila.attr('id').split('_')[1];
+                var cantidad = parseInt(fila.find('td:nth-child(2)').text());
+                var precioUnitario = parseFloat(fila.find('td:nth-child(3)').text());
+                var total = cantidad * precioUnitario;
+
+                // Remover la fila de la tabla
+                fila.remove();
+
+                // Remover el producto del detalle de venta
+                productosDetalle = productosDetalle.filter(function (producto) {
+                    return producto.ProductoId != productoId;
+                });
+
+                // Actualizar el total de la venta
+                totalVenta -= total;
+                $('#totalVenta').text(totalVenta.toFixed(2));
+            });
+
+            // Manejar el clic en el botón de generar venta
+            $('#generarVentaBtn').click(function () {
+                var ventaForm = $('#ventaForm');
+
+                // Validar que haya productos agregados
+                if (productosDetalle.length === 0) {
+                    alert('Debe agregar al menos un producto antes de generar la venta.');
+                    return;
+                }
+
+                // Validar que el campo del nombre del cliente no esté vacío
+                var clienteName = $('#ventaForm').find('input[name="Venta.ClienteName"]').val().trim();
+                if (clienteName === "") {
+                    alert('Debe ingresar el nombre del cliente.');
+                    return;
+                }
+
+                // Si las validaciones pasan, proceder a generar la venta
+                $('#productosDetalle').val(JSON.stringify(productosDetalle));
+                ventaForm.submit();
+            });
+
+        });
+    </script>
+}

@@ -1,0 +1,304 @@
+﻿@{
+    ViewData["Title"] = "FARMACIA LINARES";
+    Layout = null; // Esto evita que se cargue el layout por defecto
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - FARMACIA LINARES</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+    <!--iconos-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+          integrity="sha512-... (la cadena completa de integridad)" crossorigin="anonymous" />
+
+    <style>
+        /* Estilos generales */
+        body, html {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        /* Estilos para el contenedor principal */
+        .site-wrap {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        /* Estilos para la cabecera de la página */
+        .site-blocks-cover {
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center center;
+            position: relative;
+            min-height: 700px;
+            height: calc(100vh);
+            display: flex;
+            align-items: center;
+            padding: 20px;
+            box-sizing: border-box;
+            transition: background-color 0.3s ease, filter 0.3s ease;
+        }
+
+            /* Estilos para el texto de bienvenida */
+            .site-blocks-cover h1 {
+                color: #885fdb;
+                font-size: 50px;
+                font-weight: 900;
+                margin-bottom: 30px;
+                text-transform: uppercase;
+                transform: translateX(450px);
+                transition: color 0.3s ease;
+            }
+
+            .site-blocks-cover p {
+                font-size: 20px;
+                line-height: 35px;
+                color: #333;
+                transform: translateX(370px);
+                text-align: justify;
+                line-height: 1.3;
+                transition: color 0.3s ease;
+            }
+
+        /* Estilos para el botón de ingresar */
+        .caja-ingresar {
+            margin-top: 20px;
+        }
+
+        .btn-ingresar {
+            display: inline-block;
+            background-color: #48BBC6;
+            color: #fff;
+            padding: 10px 20px;
+            text-transform: uppercase;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+            transform: translateX(650px);
+            font-weight: bold;
+        }
+
+            .btn-ingresar:hover {
+                background-color: #2C8FA2;
+            }
+
+        /* Estilos para el pie de página */
+        .site-footer {
+            background: #f8f9fa;
+            padding: 2em 0;
+            color: #333;
+            text-decoration: none;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+            .site-footer h3 {
+                color: #5649a6;
+                text-decoration: none; /* Quitar subrayado */
+            }
+
+            .site-footer a:hover {
+                text-decoration: underline;
+            }
+
+        .footer-heading {
+            font-size: 25px;
+            margin-bottom: 20px;
+            font-weight: bold;
+            color: #885fdb;
+        }
+
+            .footer-heading, .footer-heading a {
+                color: #5649a6;
+            }
+
+        .site-footer .list-unstyled {
+            padding-left: 0;
+            list-style: none;
+        }
+
+            .site-footer .list-unstyled li {
+                margin-bottom: 10px;
+            }
+
+            .site-footer .list-unstyled a {
+                color: #5649a6;
+                text-decoration: none; /* Quitar subrayado */
+            }
+
+                .site-footer .list-unstyled a:hover {
+                    color: #51eaea;
+                }
+
+        .site-footer .fa-xl {
+            font-size: 1.5em;
+            margin-right: 10px;
+            color: #5649a6; /* Color de los iconos */
+        }
+
+        .site-footer .block-5, .site-footer .block-7 {
+            margin-bottom: 20px;
+        }
+
+        .site-footer hr {
+            border-top: 1px solid #dee2e6;
+        }
+
+        .site-footer p {
+            margin: 0;
+            color: black;
+        }
+
+        .site-footer .text-primary {
+            color: #51eaea !important;
+            text-decoration: none;
+        }
+
+        /* Estilos para el botón de modo daltonismo */
+        .btn-daltonismo {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background-color: #ffbc00;
+            color: #fff;
+            padding: 10px 20px;
+            font-weight: bold;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            z-index: 1000;
+            transition: background-color 0.3s ease;
+        }
+
+            .btn-daltonismo:hover {
+                background-color: #d98f00;
+            }
+
+        /* Modo Daltonismo (escala de grises) */
+        .daltonismo {
+            filter: grayscale(100%) !important;
+            background-color: #f4f4f4 !important;
+        }
+
+            .daltonismo .site-blocks-cover h1 {
+                color: #333 !important;
+            }
+
+            .daltonismo .site-blocks-cover p {
+                color: #555 !important;
+            }
+
+            .daltonismo .btn-ingresar {
+                background-color: #a2a2a2 !important;
+                color: #fff !important;
+            }
+
+            .daltonismo .site-footer {
+                background-color: #e0e0e0 !important;
+                color: #333 !important;
+            }
+
+                .daltonismo .site-footer a {
+                    color: #666 !important;
+                }
+    </style>
+</head>
+
+<body>
+
+    <div class="site-wrap">
+        <!--------------CONTENIDO DE LA PAGINA-->
+        <div class="site-blocks-cover inner-page img-fluid" style="background-image: url('/imagenes/HomePage2K.png');
+              background-size: 100% auto;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-lg-7 mx-auto align-self-center">
+                        <div class="text-right">
+                            <h1>¡BIENVENIDO A LA FARMACIA LINARES!</h1>
+                            <p>
+                                "Somos Farmacia Linares, tu socio de confianza en salud y bienestar.
+                                Nos dedicamos a proporcionar productos certificados de la más alta calidad
+                                para satisfacer tus necesidades de salud. Nuestra pasión es tu bienestar."
+                            </p>
+                        </div>
+                        <div class="caja-ingresar">
+                            <a class="btn-ingresar" asp-area="Identity" asp-page="/Account/Login">Iniciar Sesión</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-----------FIN-------->
+        <!-- --------------------------------------------PIE DE PÁGINA - INICIO-------------------------------------------- -->
+        <!-- PIE DE PÁGINA -->
+        <footer class="site-footer">
+            <div class="container">
+                <hr>
+                <div class="row">
+                    <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+                        <div class="block-7">
+                            <h3 class="footer-heading mb-4">¿Necesitas ayuda?</h3>
+                            <ul class="list-unstyled">
+                                <li><a href="#"><i class="fa-solid fa-phone fa-xl"></i> 936002113</a></li>
+                                <li><a href="#"><i class="fa-brands fa-whatsapp fa-xl"></i> 900122103</a></li>
+                                <li><a href="#"><i class="fa-regular fa-envelope fa-xl"></i> info@farmaLinares.es</a></li>
+                                <li><a><i class="fa-regular fa-clock fa-xl"></i> Lun - Vie de 9:00-13:00 </a></li>
+                                <li><a style="margin-left: 29px;"> y de 15:00 a 20:00</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 mx-auto mb-5 mb-lg-0">
+                        <h3 class="footer-heading mb-4">Información</h3>
+                        <ul class="list-unstyled">
+                            <li><a href="#">Envíos</a></li>
+                            <li><a href="#">Quiénes somos</a></li>
+                            <li><a href="#">Atención al cliente</a></li>
+                            <li><a href="#">Términos y condiciones</a></li>
+                            <li><a href="#">Política de devoluciones</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+                        <div class="block-5 mb-5">
+                            <h3 class="footer-heading mb-4">Redes Sociales</h3>
+                            <ul class="list-unstyled">
+                                <a href="#"><i class="fa-brands fa-instagram fa-2xl"></i></a>
+                                <a href="#"><i class="fa-brands fa-facebook fa-2xl"></i></a>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="row pt-3 mt-3 text-center">
+                    <div class="col-md-12">
+                        <p>
+                            Copyright &copy;
+                            <script>document.write(new Date().getFullYear());</script> All rights reserved |
+                            <a href="#" target="_blank" class="text-primary">FARMACIA LINARES</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+        <!-- --------------------------------------------PIE DE PÁGINA - FIN-------------------------------------------- -->
+    </div>
+
+    <!-- Botón de Modo Daltonismo -->
+    <button id="modoDaltonismo" class="btn-daltonismo">Modo Acromático</button>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        // Función para activar y desactivar el modo daltonismo
+        $('#modoDaltonismo').click(function () {
+            $('body').toggleClass('daltonismo');
+        });
+    </script>
+</body>
+</html>

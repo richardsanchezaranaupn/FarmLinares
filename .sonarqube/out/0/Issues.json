@@ -1,0 +1,679 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.9.0.0",
+        "fileVersion": "4.9.0-3.24081.11 (98911739)",
+        "semanticVersion": "4.9.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"ProductoName\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Producto.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 19,
+                  "endLine": 10,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Producto.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 19,
+                  "endLine": 10,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Venta\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/VentaDetalle.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 18,
+                  "endLine": 10,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/VentaDetalle.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 18,
+                  "endLine": 10,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Receta\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Producto.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 19,
+                  "endLine": 19,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Producto.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 19,
+                  "endLine": 19,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Producto\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/VentaDetalle.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 21,
+                  "endLine": 13,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/VentaDetalle.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 21,
+                  "endLine": 13,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"ProveedorName\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Proveedor.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 19,
+                  "endLine": 11,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Proveedor.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 19,
+                  "endLine": 11,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Ruc\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Proveedor.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 19,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Proveedor.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 19,
+                  "endLine": 16,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Direccion\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Proveedor.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 19,
+                  "endLine": 18,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Proveedor.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 19,
+                  "endLine": 18,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"NombreContacto\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Proveedor.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 19,
+                  "endLine": 22,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Proveedor.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 19,
+                  "endLine": 22,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Telefono\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Proveedor.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 19,
+                  "endLine": 27,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Proveedor.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 19,
+                  "endLine": 27,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"CorreoElectronico\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Proveedor.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 19,
+                  "endLine": 32,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Proveedor.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 19,
+                  "endLine": 32,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"CategoriaName\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Categoria.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 19,
+                  "endLine": 10,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Categoria.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 19,
+                  "endLine": 10,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Descripcion\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Categoria.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 19,
+                  "endLine": 11,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Categoria.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 19,
+                  "endLine": 11,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Producto\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/ViewModels/ProductoVM.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 21,
+                  "endLine": 7,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/ViewModels/ProductoVM.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 21,
+                  "endLine": 7,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"FirstName\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/ApplicationUser.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 19,
+                  "endLine": 11,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/ApplicationUser.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 19,
+                  "endLine": 11,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"LastName\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/ApplicationUser.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 19,
+                  "endLine": 14,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/ApplicationUser.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 19,
+                  "endLine": 14,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Role\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/ApplicationUser.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 19,
+                  "endLine": 16,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/ApplicationUser.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 19,
+                  "endLine": 16,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"ClienteName\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Venta.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 19,
+                  "endLine": 12,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/Venta.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 19,
+                  "endLine": 12,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Venta\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/ViewModels/VentaVM.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 18,
+                  "endLine": 7,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/ViewModels/VentaVM.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 18,
+                  "endLine": 7,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"ProductosDetalleJson\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/ViewModels/VentaVM.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 19,
+                  "endLine": 11,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Models/ViewModels/VentaVM.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 19,
+                  "endLine": 11,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Un campo que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declararlo como que admite un valor NULL.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

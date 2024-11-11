@@ -1,0 +1,73 @@
+﻿@model Developers.Models.Proveedor
+@{
+    ViewData["Title"] = "Editar Proveedor";
+    Layout = "~/Views/Shared/_LayoutFarm.cshtml";
+}
+
+<div class="row justify-content-center">
+    <div class="col-12 col-md-8">
+        <div class="card">
+            <div class="card-header">
+                <h2>Editar Proveedor</h2>
+            </div>
+            <div class="card-body">
+                <form asp-controller="Proveedores" asp-action="Edit" method="post">
+                    <!-- Campo oculto para el ID del proveedor -->
+                    <input type="hidden" asp-for="ProveedorId" />
+
+                    <!-- Campo para el nombre del proveedor -->
+                    <div class="form-group mb-2">
+                        <label class="form-label">NOMBRE</label>
+                        <input class="form-control" asp-for="ProveedorName" placeholder="Ingrese nombre de Proveedor" />
+                        <span asp-validation-for="ProveedorName" class="text-danger"></span>
+                    </div>
+
+                    <!-- Campo para el RUC -->
+                    <div class="form-group mb-2">
+                        <label class="form-label">RUC</label>
+                        <input class="form-control" asp-for="Ruc" placeholder="Ingrese RUC" maxlength="11" />
+                        <span asp-validation-for="Ruc" class="text-danger"></span>
+                    </div>
+
+                    <!-- Campo para la dirección -->
+                    <div class="form-group mb-2">
+                        <label class="form-label">DIRECCIÓN</label>
+                        <input class="form-control" asp-for="Direccion" placeholder="Ingrese Dirección" />
+                        <span asp-validation-for="Direccion" class="text-danger"></span>
+                    </div>
+
+                    <!-- Campo para el nombre de contacto -->
+                    <div class="form-group mb-2">
+                        <label class="form-label">NOMBRE DE CONTACTO</label>
+                        <input class="form-control" asp-for="NombreContacto" placeholder="Ingrese nombre de contacto" />
+                        <span asp-validation-for="NombreContacto" class="text-danger"></span>
+                    </div>
+
+                    <!-- Campo para el teléfono -->
+                    <div class="form-group mb-2">
+                        <label class="form-label">TELÉFONO</label>
+                        <input class="form-control" asp-for="Telefono" placeholder="Ingrese número de teléfono" maxlength="15" />
+                        <span asp-validation-for="Telefono" class="text-danger"></span>
+                    </div>
+
+                    <!-- Campo para el correo electrónico -->
+                    <div class="form-group mb-2">
+                        <label class="form-label">CORREO ELECTRÓNICO</label>
+                        <input class="form-control" asp-for="CorreoElectronico" placeholder="Ingrese correo electrónico" />
+                        <span asp-validation-for="CorreoElectronico" class="text-danger"></span>
+                    </div>
+
+                    <!-- Botones para guardar o cancelar -->
+                    <div class="d-grid column-gap-2 d-md-block offset-0 offset-md-3 offset-lg-4">
+                        <button type="submit" class="btn btn-success">
+                            <i class="bi bi-save"></i>&nbsp; Guardar Cambios
+                        </button>
+                        <a asp-controller="Proveedores" asp-action="Index" class="btn btn-primary">
+                            <i class="bi bi-arrow-return-left"></i>&nbsp;Cancelar
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

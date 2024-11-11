@@ -1,0 +1,221 @@
+﻿@page
+@model RegisterModel
+@using Developers.Utilities
+@{
+    ViewData["Title"] = "Registro de Usuarios";
+    //Layout = "~/Views/Shared/_LayoutFarm.cshtml";
+    Layout = null;
+}
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/path/to/your/custom/styles.css" rel="stylesheet"> <!-- Asegúrate de enlazar tu archivo CSS personalizado -->
+    <style>
+        * {
+            font-family: 'Poppins', sans-serif;
+            font-size: 18px
+        }
+
+        .h1 {
+            color: #000;
+            font-size: 70px;
+            font-weight: 800;
+            font-weight: bolder;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+        .custom-btn-color {
+            font-size: 19px !important;
+            font-weight: bold;
+            border: 3px solid;
+            border-radius: 20px;
+            color: #48bbc6;
+            background-color: white;
+        }
+
+        .modal-body {
+            font-size: 16px;
+        }
+
+        /* Estilo para el modo daltonismo */
+        .daltonismo-container {
+            filter: grayscale(100%) !important;
+            background-color: #f4f4f4 !important;
+        }
+
+        /* Estilo para los botones en modo daltonismo */
+        .daltonismo .btn {
+            background-color: #777 !important;
+            color: #222 !important;
+            border: 1px solid #aaa !important;
+        }
+
+            .daltonismo .btn:hover {
+                background-color: #555 !important;
+                border-color: #888 !important;
+            }
+
+        /* Estilo para los botones de daltonismo */
+        .btn-daltonismo {
+            background-color: #ffbc00;
+            color: #fff;
+            padding: 10px 20px;
+            font-weight: bold;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            z-index: 1000;
+            transition: background-color 0.3s ease;
+        }
+
+            .btn-daltonismo:hover {
+                background-color: #d98f00;
+            }
+
+        /* Estilo para cuando el modo daltonismo está activado */
+        .daltonismo .btn-daltonismo {
+            background-color: #777;
+            color: #222;
+        }
+
+        /* Estilos adicionales que deberían cambiar en modo daltonismo */
+        .daltonismo .table-striped {
+            background-color: #f5f5f5 !important;
+        }
+
+        .daltonismo th,
+        .daltonismo td {
+            color: #333 !important;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+
+            <div class="col-md-6 col-md-offset-1 mt-3">
+                <section>
+                    <img src="/imagenes/LogoF.png" style="width: 600px; height: auto; margin-right: 150px; margin-top:20px;" />
+                </section>
+            </div>
+
+            <div class="col-md-4 col-md-offset-1" style="margin-top:20px;">
+                <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                    <h1 class=" text-850 mb-4" style="font-weight: bolder;">Crear una cuenta</h1>
+
+                    <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                    <div class="form-floating mb-3">
+                        <input asp-for="Input.LastName" class="form-control" aria-required="true" placeholder="Ingrese Apellidos" />
+                        <label asp-for="Input.LastName">Apellidos</label>
+                        <span asp-validation-for="Input.LastName" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input asp-for="Input.FirstName" class="form-control" aria-required="true" placeholder="Ingrese Nombres" />
+                        <label asp-for="Input.FirstName">Nombres</label>
+                        <span asp-validation-for="Input.FirstName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-floating mb-3">
+                        <input asp-for="Input.PhoneNumber" class="form-control" aria-required="true" placeholder="999 999 999" />
+                        <label asp-for="Input.PhoneNumber">Teléfono</label>
+                        <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-floating mb-3">
+                        <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                        <label asp-for="Input.Email">Email</label>
+                        <span asp-validation-for="Input.Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input asp-for="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="Contraseña" />
+                        <label asp-for="Input.Password">Contraseña</label>
+                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating mb-3">
+                        <input asp-for="Input.ConfirmPassword" class="form-control" autocomplete="new-password" aria-required="true" placeholder="Contraseña" />
+                        <label asp-for="Input.ConfirmPassword">Confirmar Contraseña</label>
+                        <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                    </div>
+                    <!--Seleccionar rol de usuario-->
+                    @if (User.IsInRole(DS.Role_Admin))
+                    {
+                        <div class="form-floating mb-3">
+                            <select asp-for="Input.Role" asp-items="@Model.Input.ListRoles" class="form-select">
+                            </select>
+                            <label asp-for="Input.Role">Seleccione un Rol</label>
+                            <span asp-validation-for="Input.Role" class="text-danger"></span>
+                        </div>
+                    }
+                    <!-- Términos y condiciones -->
+                    <div class="form-check mb-3">
+                        <input class="form-check-input" type="checkbox" id="termsCheckbox" />
+                        <label class="form-check-label" for="termsCheckbox">
+                            Acepto los <a href="#" data-bs-toggle="modal" data-bs-target="#termsModal">términos y condiciones</a>
+                        </label>
+                        <span class="text-danger" id="termsError" style="display:none;">Debe aceptar los términos y condiciones</span>
+                    </div>
+
+                    <!-- Modal de Términos y Condiciones -->
+                    <div class="modal fade" id="termsModal" tabindex="-1" aria-labelledby="termsModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="termsModalLabel">Términos y Condiciones</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>Al crear una cuenta, acepta que sus datos personales serán tratados de acuerdo con nuestra política de privacidad. Su información será utilizada únicamente para los fines establecidos en la misma y no será compartida con terceros sin su consentimiento.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <button id="registerSubmit" type="submit" class="w-100 btn btn-lg custom-btn-color">Registrar cuenta</button>
+                    <button class="btn btn-warning mt-3 w-100" id="daltonismoBtn" onclick="toggleDaltonismo()">Modo Acromático</button>
+                </form>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        document.getElementById('registerForm').addEventListener('submit', function (e) {
+            var termsCheckbox = document.getElementById('termsCheckbox');
+            var termsError = document.getElementById('termsError');
+            if (!termsCheckbox.checked) {
+                e.preventDefault();
+                termsError.style.display = 'block';
+            } else {
+                termsError.style.display = 'none';
+            }
+        });
+
+        // Función para activar o desactivar el modo daltonismo
+        function toggleDaltonismo() {
+            var container = document.body;
+            container.classList.toggle('daltonismo-container');
+        }
+
+        // Al cargar la página, asegúrate de que el modo daltonismo esté desactivado
+        window.onload = function () {
+            var container = document.body;
+            container.classList.remove('daltonismo-container');
+        };
+    </script>
+
+</body>
+</html>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

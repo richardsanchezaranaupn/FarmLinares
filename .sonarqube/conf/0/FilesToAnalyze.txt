@@ -1,0 +1,16 @@
+﻿C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\ApplicationUser.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\Categoria.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\EntityBase.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\ErrorViewModel.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\Producto.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\Proveedor.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\Venta.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\VentaDetalle.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\ViewModels\ProductoVM.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Models\ViewModels\VentaVM.cs
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\nunit.engine.dll
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\testcentric.engine.metadata.dll

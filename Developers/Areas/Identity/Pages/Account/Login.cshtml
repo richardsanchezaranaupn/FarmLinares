@@ -1,0 +1,159 @@
+﻿@page
+@model LoginModel
+
+@{
+    /*Layout = "~/Views/Shared/_LayoutFarm.cshtml";*/
+    Layout = null;
+    ViewData["Title"] = "Iniciar sesión";
+}
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/path/to/your/custom/styles.css" rel="stylesheet"> <!-- Asegúrate de enlazar tu archivo CSS personalizado -->
+    <style>
+        * {
+            font-family: 'Poppins', sans-serif;
+            font-size: 20px;
+        }
+
+        .h1 {
+            color: #000;
+            font-size: 70px;
+            font-weight: 800;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+        .custom-btn-color {
+            font-size: 19px !important;
+            font-weight: bold;
+            border: none;
+            border-radius: 7px;
+            color: white;
+            background-color: #885fdb;
+            text-transform: uppercase;
+        }
+
+        .form-check-input:checked {
+            background-color: #5649A6;
+            border-color: #885fdb;
+        }
+
+        /* Estilos para el botón de modo daltonismo */
+        .btn-daltonismo {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background-color: #ffbc00;
+            color: #fff;
+            padding: 10px 20px;
+            font-weight: bold;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            z-index: 1000;
+            transition: background-color 0.3s ease;
+        }
+
+            .btn-daltonismo:hover {
+                background-color: #d98f00;
+            }
+
+        /* Modo Daltonismo (escala de grises) */
+        .daltonismo {
+            filter: grayscale(100%) !important;
+            background-color: #f4f4f4 !important;
+        }
+
+            .daltonismo .site-blocks-cover h1 {
+                color: #333 !important;
+            }
+
+            .daltonismo .site-blocks-cover p {
+                color: #555 !important;
+            }
+
+            .daltonismo .btn-ingresar {
+                background-color: #a2a2a2 !important;
+                color: #fff !important;
+            }
+
+            .daltonismo .site-footer {
+                background-color: #e0e0e0 !important;
+                color: #333 !important;
+            }
+
+                .daltonismo .site-footer a {
+                    color: #666 !important;
+                }
+
+    </style>
+</head>
+
+<body>
+
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-md-6 col-md-offset-1 mt-3">
+                <section>
+                    <img src="/imagenes/LogoF.png" style="width: 600px; height: auto; margin-right: 150px; margin-top:20px;" />
+                </section>
+            </div>
+
+            <div class="col-md-4 col-md-offset-1 p-3">
+
+                <section style="margin-top:50px;">
+                    <form id="account" method="post">
+                        <h1 class="text-900 mb-4" style="font-weight: bolder;">Iniciar Sesión</h1>
+
+                        <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+                        <div class="form-floating mb-3">
+                            <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="Correo Electronico" />
+                            <label asp-for="Input.Email" class="form-label">Correo Electrónico</label>
+                            <span asp-validation-for="Input.Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="Contraseña" />
+                            <label asp-for="Input.Password" class="form-label">Contraseña</label>
+                            <span asp-validation-for="Input.Password" class="text-danger"></span>
+                        </div>
+                        <div class="checkbox mb-3">
+                            <label asp-for="Input.RememberMe" class="form-label">
+                                <input class="form-check-input" asp-for="Input.RememberMe" />
+                                @Html.DisplayNameFor(m => m.Input.RememberMe)
+                            </label>
+                        </div>
+                        <div>
+                            <button id="login-submit" type="submit" class="w-100 btn btn-lg custom-btn-color">Iniciar sesión</button>
+                        </div>
+                        <br />
+                        <div>
+                            <p>
+                                <a id="forgot-password" asp-page="./ForgotPassword" style="color: #5649A6; text-decoration: none;">¿Olvidaste la Contraseña?</a>
+                            </p>
+                        </div>
+                    </form>
+                </section>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Botón de Modo Daltonismo -->
+    <button class="btn-daltonismo" onclick="toggleDaltonismo()">Modo Acromático</button>
+
+    <script>
+        // Función para alternar el modo Daltonismo
+        function toggleDaltonismo() {
+            document.body.classList.toggle('daltonismo');
+        }
+    </script>
+
+</body>
+</html>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,44 @@
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Repositories.deps.json
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Repositories.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Repositories.pdb
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Models.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Persistence.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Utilities.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Persistence.pdb
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Models.pdb
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Utilities.pdb
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\Developers.Repositories.csproj.AssemblyReference.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\Developers.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\Developers.Repositories.AssemblyInfoInputs.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\Developers.Repositories.AssemblyInfo.cs
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\Developers.Repositories.csproj.CoreCompileInputs.cache
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\Develope.CD8F539C.Up2Date
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\Developers.Repositories.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\refint\Developers.Repositories.dll
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\Developers.Repositories.pdb
+C:\DISEÑO Y ARQUITECTURA\PROYECTO FINAL 2\BACKUP FINAL\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\ref\Developers.Repositories.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Repositories.deps.json
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Repositories.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Repositories.pdb
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Models.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Persistence.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Utilities.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Persistence.pdb
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Models.pdb
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\Developers.Utilities.pdb
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\Developers.Repositories.csproj.AssemblyReference.cache
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\Developers.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\Developers.Repositories.AssemblyInfoInputs.cache
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\Developers.Repositories.AssemblyInfo.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\Developers.Repositories.csproj.CoreCompileInputs.cache
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\Develope.CD8F539C.Up2Date
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\Developers.Repositories.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\refint\Developers.Repositories.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\Developers.Repositories.pdb
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\obj\Release\net8.0\ref\Developers.Repositories.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\NUnit3.TestAdapter.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\NUnit3.TestAdapter.pdb
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\nunit.engine.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\nunit.engine.api.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\nunit.engine.core.dll
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Repositories\bin\Release\net8.0\testcentric.engine.metadata.dll

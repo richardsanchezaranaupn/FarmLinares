@@ -1,0 +1,81 @@
+﻿@model Developers.Models.Producto
+@{
+    ViewData["Title"] = "Editar Producto";
+    Layout = "~/Views/Shared/_LayoutFarm.cshtml";
+}
+
+<div class="row justify-content-center">
+    <div class="col-12 col-md-8">
+        <div class="card">
+            <div class="card-header">
+                <h2>Editar Producto</h2>
+            </div>
+            <div class="card-body">
+                <form asp-controller="Productos" asp-action="Edit" method="post">
+                    <input type="hidden" asp-for="ProductoId" />
+                    <input type="hidden" asp-for="CategoriaId" />
+                    <input type="hidden" asp-for="ProveedorId" />
+                    <input type="hidden" asp-for="CreatedAt" />
+
+                    <div class="form-group mb-2">
+                        <label class="form-label">NOMBRE PRODUCTO</label>
+                        <input class="form-control" asp-for="ProductoName" placeholder="Ingrese Nombre" />
+                        <span asp-validation-for="ProductoName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-2">
+                        <label class="form-label">CANTIDAD</label>
+                        <input class="form-control" asp-for="Cantidad" placeholder="Ingrese Cantidad" type="number" step="0.01" />
+                        <span asp-validation-for="Cantidad" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-2">
+                        <label class="form-label">PRECIO</label>
+                        <input class="form-control" asp-for="Precio" placeholder="Ingrese Precio" type="number" step="0.0001" />
+                        <span asp-validation-for="Precio" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-2">
+                        <label class="form-label">RECETA</label>
+                        <input class="form-control" asp-for="Receta" readonly /> <!-- Solo lectura para Receta -->
+                        <span asp-validation-for="Receta" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-2">
+                        <label class="form-label">FECHA INGRESO</label>
+                        <input class="form-control" asp-for="FechaIngreso" readonly /> <!-- Solo lectura para FechaIngreso -->
+                        <span asp-validation-for="FechaIngreso" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-2">
+                        <label class="form-label">CATEGORÍA</label>
+                        <input class="form-control" value="@Model.Categoria?.CategoriaName" readonly /> <!-- Mostrar nombre de la categoría -->
+                    </div>
+
+                    <div class="form-group mb-2">
+                        <label class="form-label">PROVEEDOR</label>
+                        <input class="form-control" value="@Model.Proveedor?.ProveedorName" readonly /> <!-- Mostrar nombre del proveedor -->
+                    </div>
+
+                    <div class="form-group mb-2">
+                        <label class="form-label">Estado</label>
+                        <select asp-for="Status" class="form-select">
+                            <option value="true">ACTIVO</option>
+                            <option value="false">INACTIVO</option>
+                        </select>
+                        <span asp-validation-for="Status" class="text-danger"></span>
+                    </div>
+
+                    <div class="d-grid column-gap-2 d-md-block offset-0 offset-md-3 offset-lg-4">
+                        <button type="submit" class="btn btn-success">
+                            <i class="bi bi-download"></i>&nbsp; Actualizar
+                        </button>
+                        <a asp-controller="Productos" asp-action="Index" class="btn btn-primary">
+                            <i class="bi bi-arrow-return-left"></i>&nbsp;Cancelar
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

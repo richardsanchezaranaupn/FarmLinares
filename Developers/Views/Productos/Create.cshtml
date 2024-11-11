@@ -1,0 +1,192 @@
+﻿@model Developers.Models.ViewModels.ProductoVM
+@{
+    ViewData["Title"] = "Crear Producto";
+    Layout = "~/Views/Shared/_LayoutFarm.cshtml";
+}
+
+<div class="row justify-content-center">
+    <div class="col-12 col-md-8">
+        <div class="card">
+            <div class="card-header">
+                <h2>Nuevo Producto</h2>
+            </div>
+            <div class="card-body">
+                <form asp-controller="Productos" asp-action="Create" method="post" id="productoForm">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <!-- NOMBRE PRODUCTO -->
+                    <div class="form-group mb-2">
+                        <label class="form-label">NOMBRE PRODUCTO</label>
+                        <input class="form-control" asp-for="Producto.ProductoName" placeholder="Ingrese Nombre" />
+                        <span asp-validation-for="Producto.ProductoName" class="text-danger"></span>
+                    </div>
+
+                    <!-- CANTIDAD -->
+                    <div class="form-group mb-2">
+                        <label class="form-label">CANTIDAD</label>
+                        <input class="form-control" asp-for="Producto.Cantidad" placeholder="Ingrese Cantidad" />
+                        <span asp-validation-for="Producto.Cantidad" class="text-danger"></span>
+                    </div>
+
+                    <!-- PRECIO -->
+                    <div class="form-group mb-2">
+                        <label class="form-label">PRECIO</label>
+                        <input class="form-control" asp-for="Producto.Precio" placeholder="Ingrese Precio" />
+                        <span asp-validation-for="Producto.Precio" class="text-danger"></span>
+                    </div>
+
+                    <!-- RECETA OBLIGATORIA -->
+                    <div class="form-group mb-2">
+                        <label class="form-label">RECETA OBLIGATORIA</label>
+                        <select class="form-control" asp-for="Producto.Receta">
+                            <option disabled selected>--Seleccione una Opción--</option>
+                            <option value="Sí">Sí</option>
+                            <option value="No">No</option>
+                        </select>
+                        <span asp-validation-for="Producto.Receta" class="text-danger"></span>
+                    </div>
+
+
+                    <!-- FECHA INGRESO -->
+                    <div class="form-group mb-2">
+                        <label class="form-label">FECHA INGRESO</label>
+                        <input class="form-control" asp-for="Producto.FechaIngreso" id="fechaIngresoInput" type="datetime-local" readonly />
+                        <span asp-validation-for="Producto.FechaIngreso" class="text-danger"></span>
+                    </div>
+
+                    <!-- CATEGORÍA -->
+                    <div class="form-group mb-2">
+                        <label class="form-label">CATEGORÍA</label>
+                        <select class="form-select" id="CategoriaId" name="Producto.CategoriaId"></select>
+                        <span class="text-danger" id="categoriaError"></span>
+                    </div>
+
+                    <!-- PROVEEDOR -->
+                    <div class="form-group mb-2">
+                        <label class="form-label">PROVEEDOR</label>
+                        <select class="form-select" id="ProveedorId" name="Producto.ProveedorId"></select>
+                        <span class="text-danger" id="proveedorError"></span>
+                    </div>
+
+                    <!-- Botones -->
+                    <div class="d-grid column-gap-2 d-md-block offset-0 offset-md-3 offset-lg-4">
+                        <button type="submit" class="btn btn-success">
+                            <i class="bi bi-floppy"></i>&nbsp; Guardar
+                        </button>
+                        <a asp-controller="Productos" asp-action="Index" class="btn btn-primary">
+                            <i class="bi bi-arrow-return-left"></i>&nbsp;Cancelar
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            // Inicializar Select2 para el campo CategoriaId con búsqueda dinámica
+            $("#CategoriaId").select2({
+                placeholder: "Seleccione una Categoría",
+                allowClear: true,
+                theme: "bootstrap-5",
+                ajax: {
+                    url: "@Url.Action("SearchCategory", "Productos")",  // Llama al controlador Productos para buscar categorías
+                    contentType: "application/json; charset=utf-8",
+                    data: function (params) {
+                        return {
+                            term: params.term // El término de búsqueda que se envía al servidor
+                        };
+                    },
+                    processResults: function (data) {
+                        return {
+                            results: $.map(data, function (item) {
+                                return {
+                                    id: item.categoriaId, // El ID de la categoría
+                                    text: item.categoriaName // El nombre de la categoría
+                                };
+                            })
+                        };
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        console.error("Error al cargar las categorías: ", textStatus, errorThrown);
+                    }
+                }
+            });
+
+            // Inicializar Select2 para el campo ProveedorId con búsqueda dinámica
+            $("#ProveedorId").select2({
+                placeholder: "Seleccione un Proveedor",
+                allowClear: true,
+                theme: "bootstrap-5",
+                ajax: {
+                    url: "@Url.Action("SearchProveedor", "Productos")",  // Llama al controlador Productos para buscar proveedores
+                    contentType: "application/json; charset=utf-8",
+                    data: function (params) {
+                        return {
+                            term: params.term // El término de búsqueda que se envía al servidor
+                        };
+                    },
+                    processResults: function (data) {
+                        return {
+                            results: $.map(data, function (item) {
+                                return {
+                                    id: item.proveedorId, // El ID del proveedor
+                                    text: item.proveedorName // El nombre del proveedor
+                                };
+                            })
+                        };
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        console.error("Error al cargar los proveedores: ", textStatus, errorThrown);
+                    }
+                }
+            });
+
+            // Prellenar el campo Fecha de Ingreso con la fecha actual
+            var today = new Date();
+            var day = String(today.getDate()).padStart(2, '0');
+            var month = String(today.getMonth() + 1).padStart(2, '0'); // Enero es 0
+            var year = today.getFullYear();
+            var hours = String(today.getHours()).padStart(2, '0');
+            var minutes = String(today.getMinutes()).padStart(2, '0');
+
+            // Formato YYYY-MM-DDTHH:MM para campos de tipo "datetime-local"
+            var currentDateTime = year + '-' + month + '-' + day + 'T' + hours + ':' + minutes;
+
+            // Asignar valor al campo de fecha de ingreso
+            document.getElementById('fechaIngresoInput').value = currentDateTime;
+
+            // Validación del formulario al enviar
+            document.getElementById("productoForm").addEventListener("submit", function (event) {
+                var categoriaSelect = $("#CategoriaId").val(); // Utiliza Select2 para obtener el valor
+                var proveedorSelect = $("#ProveedorId").val(); // Utiliza Select2 para obtener el valor
+                var categoriaError = document.getElementById("categoriaError");
+                var proveedorError = document.getElementById("proveedorError");
+                var isValid = true;
+
+                // Validar categoría
+                if (!categoriaSelect || categoriaSelect === "") {
+                    categoriaError.textContent = "Debe seleccionar una categoría.";
+                    isValid = false;
+                } else {
+                    categoriaError.textContent = "";
+                }
+
+                // Validar proveedor
+                if (!proveedorSelect || proveedorSelect === "") {
+                    proveedorError.textContent = "Debe seleccionar un proveedor.";
+                    isValid = false;
+                } else {
+                    proveedorError.textContent = "";
+                }
+
+                if (!isValid) {
+                    event.preventDefault(); // Detener envío del formulario si no es válido
+                }
+            });
+
+        });
+    </script>
+}

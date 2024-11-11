@@ -1,0 +1,18 @@
+﻿@using Developers.Utilities
+
+@if (TempData[DS.Successfull] != null){
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script type="text/javascript">
+        toastr.success('@TempData[DS.Successfull]');
+    </script>
+}
+
+@if (TempData[DS.Error] != null)
+{
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script type="text/javascript">
+        toastr.error('@TempData[DS.Error]');
+    </script>
+}

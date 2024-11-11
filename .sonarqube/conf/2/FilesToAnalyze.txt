@@ -1,0 +1,18 @@
+﻿C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Persistence\Configurations\CategoriaConfiguration.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Persistence\Configurations\ProductoConfiguration.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Persistence\Configurations\ProveedorConfiguration.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Persistence\Configurations\VentaConfiguration.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Persistence\Configurations\VentaDetalleConfiguration.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Persistence\DevelopersDbContext.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Persistence\InitialData\DbInitialize.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Persistence\InitialData\IDbInitialize.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Persistence\InitialData\SeedData.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Persistence\Migrations\20240929210938_FINAL.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Persistence\Migrations\20240929210938_FINAL.Designer.cs
+C:\CALIDAD Y PRUEBAS\SISTEMA CORREGIDO\DeveloperJuniors\Developers.Persistence\Migrations\DevelopersDbContextModelSnapshot.cs
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\nunit.engine.dll
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\EDWARD\.nuget\packages\nunit3testadapter\4.5.0\build\netcoreapp3.1\testcentric.engine.metadata.dll

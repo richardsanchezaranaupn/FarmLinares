@@ -1,0 +1,483 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.9.0.0",
+        "fileVersion": "4.9.0-3.24081.11 (98911739)",
+        "semanticVersion": "4.9.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "CS8625",
+          "level": "warning",
+          "message": "No se puede convertir un literal NULL en un tipo de referencia que no acepta valores NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Interfaces/IRepositoryBase.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 44,
+                  "endLine": 8,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8625",
+          "level": "warning",
+          "message": "No se puede convertir un literal NULL en un tipo de referencia que no acepta valores NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Implementations/RepositoryBase.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 92,
+                  "endLine": 25,
+                  "endColumn": 96
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8625",
+          "level": "warning",
+          "message": "No se puede convertir un literal NULL en un tipo de referencia que no acepta valores NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Interfaces/IRepositoryBase.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 61,
+                  "endLine": 9,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8625",
+          "level": "warning",
+          "message": "No se puede convertir un literal NULL en un tipo de referencia que no acepta valores NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Interfaces/IRepositoryBase.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 36,
+                  "endLine": 10,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8625",
+          "level": "warning",
+          "message": "No se puede convertir un literal NULL en un tipo de referencia que no acepta valores NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Implementations/RepositoryBase.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 150,
+                  "endLine": 25,
+                  "endColumn": 154
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8625",
+          "level": "warning",
+          "message": "No se puede convertir un literal NULL en un tipo de referencia que no acepta valores NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Interfaces/IRepositoryBase.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 44,
+                  "endLine": 14,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8625",
+          "level": "warning",
+          "message": "No se puede convertir un literal NULL en un tipo de referencia que no acepta valores NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Interfaces/IRepositoryBase.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 36,
+                  "endLine": 15,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8625",
+          "level": "warning",
+          "message": "No se puede convertir un literal NULL en un tipo de referencia que no acepta valores NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Implementations/RepositoryBase.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 183,
+                  "endLine": 25,
+                  "endColumn": 187
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8625",
+          "level": "warning",
+          "message": "No se puede convertir un literal NULL en un tipo de referencia que no acepta valores NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Implementations/RepositoryBase.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 81,
+                  "endLine": 46,
+                  "endColumn": 85
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8625",
+          "level": "warning",
+          "message": "No se puede convertir un literal NULL en un tipo de referencia que no acepta valores NULL.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Implementations/RepositoryBase.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 114,
+                  "endLine": 46,
+                  "endColumn": 118
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8603",
+          "level": "warning",
+          "message": "Posible tipo de valor devuelto de referencia nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Implementations/VentaDetalleRepository.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 16,
+                  "endLine": 42,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8603",
+          "level": "warning",
+          "message": "Posible tipo de valor devuelto de referencia nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Implementations/VentaRepository.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 16,
+                  "endLine": 78,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8603",
+          "level": "warning",
+          "message": "Posible tipo de valor devuelto de referencia nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Implementations/VentaRepository.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 16,
+                  "endLine": 83,
+                  "endColumn": 88
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8603",
+          "level": "warning",
+          "message": "Posible tipo de valor devuelto de referencia nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Implementations/RepositoryBase.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 16,
+                  "endLine": 23,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8603",
+          "level": "warning",
+          "message": "Posible tipo de valor devuelto de referencia nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Implementations/RepositoryBase.cs",
+                "region": {
+                  "startLine": 61,
+                  "startColumn": 16,
+                  "endLine": 61,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8603",
+          "level": "warning",
+          "message": "Posible tipo de valor devuelto de referencia nulo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Implementations/ProductoRepository.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 16,
+                  "endLine": 80,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1816",
+          "level": "note",
+          "message": "Cambie \"UnitWork.Dispose()\" para llamar a GC.SuppressFinalize(object). Con esto se evitará que los tipos derivados que introducen un finalizador tengan que volver a implementar \"IDisposable\" para llamarlo.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Implementations/UnitWork.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 17,
+                  "endLine": 25,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Preferir campos \"static readonly\" frente a argumentos de matriz constantes si se llama repetidamente al método llamado y no muta la matriz pasada",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Implementations/RepositoryBase.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 69,
+                  "endLine": 33,
+                  "endColumn": 87
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "separator"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1861",
+          "level": "note",
+          "message": "Preferir campos \"static readonly\" frente a argumentos de matriz constantes si se llama repetidamente al método llamado y no muta la matriz pasada",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Repositories/Implementations/RepositoryBase.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 69,
+                  "endLine": 54,
+                  "endColumn": 87
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "paramName": "separator"
+            }
+          }
+        }
+      ],
+      "rules": {
+        "CA1816": {
+          "id": "CA1816",
+          "shortDescription": "Los métodos Dispose deberían llamar a SuppressFinalize",
+          "fullDescription": "Un método que es una implementación de Dispose no llama a GC.SuppressFinalize, o un método que no es una implementación de Dispose llama a GC.SuppressFinalize, o un método llama a GC.SuppressFinalize y pasa algo distinto de \"this\" (Me en Visual Basic).",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1816",
+          "properties": {
+            "category": "Usage",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1861": {
+          "id": "CA1861",
+          "shortDescription": "Evitar matrices constantes como argumentos",
+          "fullDescription": "Las matrices constantes pasadas como argumentos no se reutilizan cuando se llaman repetidamente, lo que implica que se cree una nueva matriz cada vez. Considere la posibilidad de extraerlas a campos \"static readonly\" para mejorar el rendimiento si la matriz pasada no se muta dentro del método llamado.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1861",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CS8603": {
+          "id": "CS8603",
+          "shortDescription": "Posible tipo de valor devuelto de referencia nulo",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8603)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8625": {
+          "id": "CS8625",
+          "shortDescription": "No se puede convertir un literal NULL en un tipo de referencia que no acepta valores NULL.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8625)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

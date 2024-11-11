@@ -1,0 +1,443 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Compilador de Microsoft (R) Visual C#",
+        "version": "4.9.0.0",
+        "fileVersion": "4.9.0-3.24081.11 (98911739)",
+        "semanticVersion": "4.9.0",
+        "language": "es-MX"
+      },
+      "results": [
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Categorias\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/DevelopersDbContext.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 12,
+                  "endLine": 12,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/DevelopersDbContext.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 29,
+                  "endLine": 16,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Proveedores\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/DevelopersDbContext.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 12,
+                  "endLine": 12,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/DevelopersDbContext.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 29,
+                  "endLine": 17,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Productos\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/DevelopersDbContext.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 12,
+                  "endLine": 12,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/DevelopersDbContext.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 28,
+                  "endLine": 18,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"ApplicationUser\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/DevelopersDbContext.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 12,
+                  "endLine": 12,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/DevelopersDbContext.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 35,
+                  "endLine": 19,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"Ventas\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/DevelopersDbContext.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 12,
+                  "endLine": 12,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/DevelopersDbContext.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 25,
+                  "endLine": 20,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "El elemento propiedad \"VentaDetalles\" que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declarar el elemento propiedad como que admite un valor NULL.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/DevelopersDbContext.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 12,
+                  "endLine": 12,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/DevelopersDbContext.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 32,
+                  "endLine": 21,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Se va a convertir un literal nulo o un posible valor nulo en un tipo que no acepta valores NULL",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/InitialData/DbInitialize.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 32,
+                  "endLine": 56,
+                  "endColumn": 118
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Posible argumento de referencia nulo para el parámetro \"user\" en \"Task<IdentityResult> UserManager<IdentityUser>.AddToRoleAsync(IdentityUser user, string role)\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/InitialData/DbInitialize.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 37,
+                  "endLine": 57,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declarar tipos en espacios de nombres",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/Configurations/VentaConfiguration.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 14,
+                  "endLine": 5,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declarar tipos en espacios de nombres",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/Configurations/ProductoConfiguration.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 14,
+                  "endLine": 5,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declarar tipos en espacios de nombres",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/Configurations/VentaDetalleConfiguration.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 14,
+                  "endLine": 5,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1827",
+          "level": "note",
+          "message": "Se usa Count() donde podría usarse Any() para mejorar el rendimiento.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/CALIDAD%20Y%20PRUEBAS/SISTEMA%20CORREGIDO/DeveloperJuniors/Developers.Persistence/InitialData/DbInitialize.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 17,
+                  "endLine": 27,
+                  "endColumn": 69
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "OperationKey": "OperationBinaryLeft"
+            }
+          }
+        }
+      ],
+      "rules": {
+        "CA1050": {
+          "id": "CA1050",
+          "shortDescription": "Declarar tipos en espacios de nombres",
+          "fullDescription": "Los tipos se declaran en los espacios de nombres para evitar conflictos de nombre y como forma de organizar los tipos relacionados en una jerarquía de objetos.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1050",
+          "properties": {
+            "category": "Design",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1827": {
+          "id": "CA1827",
+          "shortDescription": "No usar Count() ni LongCount() si se puede usar Any()",
+          "fullDescription": "Para colecciones no vacías, Count() y LongCount() enumeran la secuencia completa, mientras que Any() se detiene en el primer elemento o en el primer elemento que satisface una condición.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1827",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CS8600": {
+          "id": "CS8600",
+          "shortDescription": "Se va a convertir un literal nulo o un posible valor nulo en un tipo que no acepta valores NULL",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8600)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8604": {
+          "id": "CS8604",
+          "shortDescription": "Posible argumento de referencia nulo",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8604)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Un campo que no acepta valores NULL debe contener un valor distinto de NULL al salir del constructor. Considere la posibilidad de declararlo como que admite un valor NULL.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
